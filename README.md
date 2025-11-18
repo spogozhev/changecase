@@ -1,3 +1,5 @@
+[![C/C++ CI](https://github.com/spogozhev/changecase/actions/workflows/autotest.yml/badge.svg)](https://github.com/spogozhev/changecase/actions/workflows/autotest.yml)
+
 # Конвертер регистров
 Учебный проект.
 
